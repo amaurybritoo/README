@@ -12,15 +12,16 @@
  ### Linguagens usadas:
 - Java
 - Python
-- HTML
-- CSS
+- Javascript
+
   
 
 ### Tecnologias abordadas:
-- Git
+- Springboot
 - GitHub
-- Vscode
+- Maven
 - MySql
+- JPA
   
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
