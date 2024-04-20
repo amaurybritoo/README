@@ -21,15 +21,17 @@
 - Cypress
 - MySql
 - métodos ágeis
-
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
 
 
 > 
 Sou Amaury Brito, 24 anos, graduado em Análise e Desenvolvimento de Sistemas, buscando ingressar como profissional de Qualidade de Software (QA). Com minha formação técnica, estou determinado a identificar e corrigir falhas nos processos de desenvolvimento de software. Meu objetivo é garantir a excelência e a confiabilidade dos produtos de software, contribuindo para o sucesso dos projetos em que estiver envolvido.
 
 ### 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaurybritoo/)
+[![LinkedIn](https://camo.githubusercontent.com/1fb28218088b45b065a7445cafa9d5f027a657f17cb4f8b3a9472b1f59952949/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/amaurybritoo/)
 
 
 </div>  
