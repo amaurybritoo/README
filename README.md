@@ -4,7 +4,6 @@
  
 <div align="center">
   <a href="https://github.com/amaurybritoo">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AmauryBrito&show_icons=true&&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf%text_color=c9d1d9&bg_color=0d1117" alt="AmauryBrito github stats"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaurybritoo&layout=compact&hide_border=true&tilte_color&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 <div style="display: inline_block"><br>
@@ -26,7 +25,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 
-> Backend developer who believes that technology has the power to change lives and the in opportunities it provides.I seek to expand my knowledge and improve my skills...
+> 
+Sou Amaury Brito, 24 anos, graduado em Análise e Desenvolvimento de Sistemas, buscando ingressar como profissional de Qualidade de Software (QA). Com minha formação técnica, estou determinado a identificar e corrigir falhas nos processos de desenvolvimento de software. Meu objetivo é garantir a excelência e a confiabilidade dos produtos de software, contribuindo para o sucesso dos projetos em que estiver envolvido.
 
 ### 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaurybritoo/)
