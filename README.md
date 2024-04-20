@@ -34,9 +34,9 @@ Sou Amaury Brito, 24 anos, graduado em Análise e Desenvolvimento de Sistemas, b
 
 ### 🌐 Redes Sociais:
 <div>
-  <a href="https://www.linkedin.com/in/amaurybritoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/amaurybritoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/amaurybritoo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a  target="_blank" href="https://www.linkedin.com/in/amaurybritoo/" ><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  <a  target="_blank" href="https://instagram.com/amaurybritoo" ><img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+ 	<a  target="_blank" href="https://www.twitch.tv/amaurybritoo" ><img target="_blank" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" ></a>
 </div>  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&animation=twinkling&section=footer"/>
